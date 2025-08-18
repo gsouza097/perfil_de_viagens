@@ -1,0 +1,22 @@
+.# Arquivos e pastas do sistema
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+
+# Visual Studio / VSCode
+.vscode/
+.idea/
+
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# Arquivos temporários
+*.log
