@@ -35,5 +35,15 @@ a{
 a:hover {
     color: var(--brand-color);
     text-decoration: underline;
-    
+
+}
+
+.container {
+    padding-inline: 20px;
+    max-width: 1280px;
+    margin-inline: auto;
+}
+
+.surface-color {
+    background-color: var(--surface-color);
 }
